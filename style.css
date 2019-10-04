@@ -1,0 +1,161 @@
+
+body{
+	font-family: "montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: #007953;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	margin-top:30px;
+    text-decoration: none;
+
+}
+
+body header{
+	position: relative;
+	display:flex;
+	padding: 0px 40px;
+	justify-content: space-between;
+	align-content: center;
+	background-color: white;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color:green;
+}
+
+
+h1{
+	color: green;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+    font-weight: 500;
+    color: #007953;
+    letter-spacing: 0;
+    text-transform: uppercase
+	font-size: 12px;
+	margin-left: 100px;
+	margin-top:50px;
+
+}
+
+h2{
+	color:white;
+    font-size: 20px;
+}
+
+
+.container{
+    text-decoration: none;
+	color:white
+	width:auto;
+	height:940;
+	margin:10px auto;
+}
+
+.container-btn {
+	text-decoration: none;
+    display: flex;
+	justify-content: space-between;
+
+}
+
+.formules{
+	display: flex;
+	justify-content: space-between;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.banner{
+	background-image: url(../images/logo.jpg);
+	height: 400px;
+	margin-top: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+
+.slogan{
+	justify-content: space-between;
+	align-content: center;
+	
+}
+
+.btn{
+    top: 30%;
+    height: 70px;
+    margin-top: 60px;
+    width: 280px;
+    line-height: 81px;
+    padding:20px;
+
+}
+
+.verte{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 10px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-top: 180px;
+    text-decoration: none;
+}
+
+
+.reservation{
+	text-align:center;
+    background-color:green;
+    text-transform: uppercase;
+    margin-right: -50px;
+    text-decoration: none;
+}
+
+.carte{
+	text-align:center;
+    background-color:green;
+    text-transform: uppercase;
+    margin-left: -50px;
+    text-decoration: none;
+
+}
+
+.choix{
+    font-family: 'Libre Baskerville', serif;
+	text-align: center;
+}
+
+.midi{
+    font-family: 'Libre Baskerville', serif;
+	text-align: center;
+    margin-left: 150px;
+
+}
+
+.soir{
+    font-family: 'Libre Baskerville', serif;
+	text-align: center;
+    margin-right: 150px;
+}
+
+
+.footer{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.left{
+	float: left;
+    text-align: left;
+    align-content: left;
+}
+
+.right{
+	float: right;
+    text-align: right;
+    align-content: right;
+}
+
